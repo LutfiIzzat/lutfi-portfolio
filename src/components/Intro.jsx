@@ -78,7 +78,8 @@ const Intro = () => {
           <div className="w-full md:w-1/2 px-0 md:p-12 flex flex-col justify-center">
             <h3 className="text-2xl md:text-4xl font-bold mb-4">About Me</h3>
             <p className="text-md md:text-lg">
-              I'm a passionate developer with a focus on creativity and clean design. I love building web experiences that are both functional and beautiful.
+              I'm a game programmer with a passion for creating fun and interactive experiences. I hold a Bachelor's degree in Game Development 
+              from Multimedia University and enjoy building games using Unity, Unreal Engine, and Phaser. Occasionally, I spend my free time learning Blender to expand my skills in 3D modeling and game art.
             </p>
           </div>
         </div>
@@ -117,7 +118,8 @@ const Intro = () => {
             <div className="w-full md:w-1/2 px-0 md:p-12 flex flex-col justify-center">
             <h3 className="text-2xl md:text-4xl font-bold mb-4">What I Do</h3>
             <p className="text-md md:text-lg">
-                From frontend UI development to backend logic, I enjoy crafting full-stack solutions and solving meaningful problems with code.
+                I develop gameplay mechanics, game design, AI behaviors, and user interfaces for games across different platforms. 
+                I’m experienced in C#, C++, and Blueprint scripting, and I enjoy solving problems and working with others to bring game ideas to life.
             </p>
             </div>
         </div>

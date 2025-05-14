@@ -28,7 +28,7 @@ const Projects = () => {
       title: "Who's The Hunter",
       description: "Local 2-Player PvP chase tag competitive game.",
       image: Game1,  // Image asset
-      videoURL: "https://www.youtube.com/embed/6Hc-llJl7Is?si=egszBramwn3ESRV9",  // Add YouTube video URL
+      videoURL: "https://www.youtube.com/embed/Y1LOBHDfQ4o?si=1SdRSaO-9e8AWMMI",  // Add YouTube video URL
       story: "The Hunted navigates through an arena, trying to reach the portal while being relentlessly hunted by The Hunter. Upon reaching the portal, The Hunted switches roles and becomes The Hunter.",
       objective: "The dynamics of the game shift as the previous Hunter now becomes The Hunted. The new Hunted must quickly adapt and navigate to a new portal to reclaim their role as The Hunter. This cycle continues until one player emerges victorious.",
       tech: "Phaser2D, Tiled, JavaScript",
@@ -37,7 +37,7 @@ const Projects = () => {
       title: "ErrorCollisionMatrix",
       description: "Singleplayer puzzle FPS PVE game.",
       image: Game2,  // Image asset
-      videoURL: "https://www.youtube.com/embed/Cr4FFt3VYT4?si=a_XZQtx8EEZmr6do",  // Add YouTube video URL
+      videoURL: "https://www.youtube.com/embed/ruqQ5Gg06Go?si=-tm5X6q9diluayg_",  // Add YouTube video URL
       story: "The player has a special ability to see through walls, helping them spot enemies and hidden items. This skill lets the player plan and act carefully to beat each level. The player can also shoot through walls, making it easier to take out enemies from hidden spots.",
       objective: "The player proceeds through a facility, solving puzzles and staying alive amidst the onslaught of enemies, which become more difficult with each level.",
       tech: "Unreal Engine 5, Blueprint, C++, UE Behaviour Trees",
